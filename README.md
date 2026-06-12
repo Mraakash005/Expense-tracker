@@ -15,3 +15,5 @@ HTML · CSS · JavaScript · Chart.js
 
 ## How to Run
 Just open index.html in your browser. No setup needed.
+## Live Demo
+👉 https://Mraakash005.github.io/Expense-tracker/
